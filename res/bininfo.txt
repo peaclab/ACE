@@ -1,0 +1,6 @@
+allcaps-2-1:bifrost:allcaps
+bc-1.06:bifrost:bc,dc
+nano-2.2.4-1:bifrost:nano
+vim-7.31-1:bifrost:vim
+helloworld:self:helloworld,helloworld_dl,helloworld.o # dl = dynamically linked, 
+wget-1.20.2:upstream:wget-1.20.2-arm8,wget-1.20.2-x86_64 # both dynamically linked
